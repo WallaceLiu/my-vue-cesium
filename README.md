@@ -6,7 +6,10 @@
   <p align="center">Version：Vuecli 4.5.x + / Vue 3.0 + </p>
   <p align="center">Branch： <a href="https://github.com/ShareQiu1994/cesium-vue/tree/master">JavaScript </a> / <a href="https://github.com/ShareQiu1994/cesium-vue/tree/typescript">TypeScript</a> </p>
 
-  
+
+## 环境
+node v16.20.0
+
 # cesium-vue
 
 ##  项目安装(Project setup)

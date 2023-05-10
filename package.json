@@ -1,5 +1,5 @@
 {
-  "name": "cesium-vue",
+  "name": "my-cesium-vue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,10 @@
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
-    "vuex": "^4.0.0-0"
+    "vuex": "^4.0.0-0",
+    "webpack": "^4.1.0",
+    "webpack-cli": "^2.0.10",
+    "webpack-dev-server": "^3.1.0"
   },
   "devDependencies": {
     "@open-wc/webpack-import-meta-loader": "^0.4.7",
@@ -31,6 +34,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^7.0.0",
     "sass": "^1.26.5",
+    "copy-webpack-plugin": "^4.0.1",
     "sass-loader": "^8.0.2",
     "strip-pragma-loader": "^1.0.0"
   },
