@@ -7,8 +7,12 @@
   <p align="center">Branch： <a href="https://github.com/ShareQiu1994/cesium-vue/tree/master">JavaScript </a> / <a href="https://github.com/ShareQiu1994/cesium-vue/tree/typescript">TypeScript</a> </p>
 
 
-## 环境
-node v16.20.0
+# 环境
+cnpm@9.2.0 
+npm@9.6.6
+node@16.20.0
+
+其他环境可能跑步起来！！！
 
 # cesium-vue
 
