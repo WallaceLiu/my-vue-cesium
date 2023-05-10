@@ -29,13 +29,9 @@ npm run build / cnpm run build / yarn build
 
 ## 与我联系 (Stay in touch)
 
-- Author - [ShareQiu1994](https://github.com/ShareQiu1994)
-- Website - [https://liubf.com](https://liubf.com)
 
 ## 你可能感兴趣的存储库 (Repositories you may be interested)
 
 [cesium-vue-electron](https://github.com/ShareQiu1994/cesium-vue-electron)
 
 ## License
-
-[MIT licensed](LICENSE).
